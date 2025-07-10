@@ -35,7 +35,8 @@ cd Virtual_Mouse
 pip install -r requirements.txt
 python virtual_mouse.py
 Note: Make sure your webcam is connected.
+```
+
 
 👤 Author
 Kripasree Mohanraj
-GitHub | LinkedIn
